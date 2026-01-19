@@ -34,8 +34,8 @@ Aqui você aprende a **construir com Bitcoin**.
 
 | | |
 |---|---|
-| 💰 **100% GRATUITO** | Educação não deveria ter paywall |
-| 📖 **OPEN SOURCE** | Nosso código e conteúdo são livres |
+| 💰 **100% GRATUITO** | Sem paywall |
+| 📖 **OPEN SOURCE** | Código e conteúdo livres |
 | 🇧🇷 **EM PORTUGUÊS** | Direto do Brasil pro mundo |
 | 🔧 **HANDS-ON** | Menos teoria, mais terminal |
 
