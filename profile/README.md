@@ -107,7 +107,9 @@ $ git commit -m "minha primeira contribuição pro Bitcoin"
 <div align="center">
 
 🧡 Apoiado por
-<img src="https://img.shields.io/badge/Área_Bitcoin-F7931A?style=for-the-badge&amp;logo=bitcoin&amp;logoColor=white" alt="Area Bitcoin">
+<img src="https://img.shields.io/badge/Área_Bitcoin-F7931A?style=for-the-badge&amp;logo=bitcoin&amp;logoColor=white" alt="Área Bitcoin">
+
+O Bitcoin é de código aberto. A educação sobre ele também deveria ser.
 
 <sub>Feito com ₿ e ☕ no Brasil 🇧🇷</sub>
 
