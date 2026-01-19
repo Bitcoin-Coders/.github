@@ -63,23 +63,30 @@ $ bitcoin-cli getblockchaininfo  # Você vai entender cada linha disso
 ✅ 100% online e gratuito
 → Quero aplicar pro CoreCraft
 
-🌟 O que você encontra aqui
-<table> <tr> <td align="center" width="25%"> <img width="60" src="https://cdn.simpleicons.org/youtube/FF0000" alt="Aulas"/> <br/><b>Aulas Gravadas</b> <br/><sub>Assista no seu ritmo</sub> </td> <td align="center" width="25%"> <img width="60" src="https://cdn.simpleicons.org/discord/5865F2" alt="Comunidade"/> <br/><b>Comunidade Ativa</b> <br/><sub>Devs que se ajudam</sub> </td> <td align="center" width="25%"> <img width="60" src="https://cdn.simpleicons.org/github/181717" alt="Open Source"/> <br/><b>Código Aberto</b> <br/><sub>Fork, estude, contribua</sub> </td> <td align="center" width="25%"> <img width="60" src="https://cdn.simpleicons.org/lightning/792EE5" alt="Hackathons"/> <br/><b>Hackathons</b> <br/><sub>Construa projetos reais</sub> </td> </tr> <tr> <td align="center" width="25%"> <img width="60" src="https://cdn.simpleicons.org/googleclassroom/0F9D58" alt="Mentoria"/> <br/><b>Mentoria</b> <br/><sub>Aprenda com quem constrói</sub> </td> <td align="center" width="25%"> <img width="60" src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="Vagas"/> <br/><b>Indicações de Vaga</b> <br/><sub>Conectamos você ao mercado</sub> </td> <td align="center" width="25%"> <img width="60" src="https://cdn.simpleicons.org/googlemeet/00897B" alt="Lives"/> <br/><b>Aulas ao Vivo</b> <br/><sub>Interação em tempo real</sub> </td> <td align="center" width="25%"> <img width="60" src="https://cdn.simpleicons.org/bitcoin/F7931A" alt="Network"/> <br/><b>Networking</b> <br/><sub>Sua rede é seu patrimônio</sub> </td> </tr> </table> ```
+---
+
+## 🌟 O que você encontra aqui
+
+| 📹 Aulas Gravadas | 👥 Comunidade Ativa | 📖 Código Aberto | 🏆 Hackathons |
+|:---:|:---:|:---:|:---:|
+| Assista no seu ritmo | Devs que se ajudam | Fork, estude, contribua | Construa projetos reais |
+
+| 🧑‍🏫 Mentoria | 💼 Indicações de Vaga | 🎬 Aulas ao Vivo | 🤝 Networking |
+|:---:|:---:|:---:|:---:|
+| Aprenda com quem constrói | Conectamos você ao mercado | Interação em tempo real | Seu código é seu legado |
+
+
+---
 
 ## 🤝 Para quem é?
 
-```python
-class BitcoinCoder:
-    def __init__(self, curiosidade: bool, vontade_de_aprender: bool):
-        self.ready = curiosidade and vontade_de_aprender
-        
-    def pode_participar(self) -> bool:
-        # Não importa se você é:
-        # - Dev júnior querendo se especializar
-        # - Sênior migrando pro ecossistema Bitcoin
-        # - Estudante curioso sobre como dinheiro programável funciona
-        # - Empreendedor querendo integrar Bitcoin no seu produto
-        return self.ready  # Se você quer aprender, você tá dentro.
+- 🚀 **Dev júnior** querendo se especializar
+- 💼 **Sênior** migrando pro ecossistema Bitcoin  
+- 🎓 **Estudante** curioso sobre dinheiro programável
+- 🏢 **Empreendedor** querendo integrar Bitcoin no produto
+
+> **Se você quer aprender, você tá dentro.** Simples assim.
+
 
 ⚡ Comece agora
 # Passo 1: Entre na comunidade
