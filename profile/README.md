@@ -23,7 +23,7 @@
 
 Nascemos no Brasil com uma missão clara: **ampliar o conhecimento técnico do Bitcoin em português.**
 
-Não somos mais uma escola burocrática. Somos uma **comunidade de construtores** que acredita que entender Bitcoin no nível do código é entender o futuro do dinheiro.
+Não somos mais uma escola burocrática. Somos uma **comunidade de construtores**.
 
 Aqui você aprende a **construir com Bitcoin**.
 
@@ -50,7 +50,7 @@ Aqui você aprende a **construir com Bitcoin**.
 | **Transações & Signet** | Anatomia completa de uma TX Bitcoin | 1h20 |
 | **Bitcoin Script** | Como o protocolo executa suas regras | 1h30 |
 | **Assinaturas Digitais** | Provar autorização sem revelar a chave | 1h40 |
-| **Núcleo do Bitcoin** | Blocos, mineração, P2P e validação | — |
+| **Núcleo do Bitcoin** | Blocos, mineração, P2P e validação | 1h40 |
 
 ### 🏗️ Programa CoreCraft
 
@@ -82,7 +82,6 @@ Aqui você aprende a **construir com Bitcoin**.
 - 🚀 **Dev júnior** querendo se especializar
 - 💼 **Sênior** migrando pro ecossistema Bitcoin  
 - 🎓 **Estudante** curioso sobre dinheiro programável
-- 🏢 **Empreendedor** querendo integrar Bitcoin no produto
 
 > **Se você quer aprender, você tá dentro.** Simples assim.
 
@@ -114,7 +113,7 @@ Aqui você aprende a **construir com Bitcoin**.
 
 ### 🧡 Apoiado por
 
-[![Área Bitcoin](https://img.shields.io/badge/Área_Bitcoin-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white)](https://x.com/areabitcoin)
+[![Area Bitcoin](https://img.shields.io/badge/Área_Bitcoin-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white)](https://x.com/areabitcoin)
 
 ---
 
