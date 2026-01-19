@@ -28,17 +28,17 @@ Não somos mais uma escola burocrática. Somos uma **comunidade de construtores*
 Aqui você aprende a **construir com Bitcoin**.
 
 
+---
+
 ## 🎯 O que fazemos diferente?
-┌─────────────────────────────────────────────────────────────┐
-│
-│
-│ 💰 100% GRATUITO → Educação não deveria ter paywall │
-│ 📖 OPEN SOURCE → Nosso código e conteúdo são livres │
-│ 🇧🇷 EM PORTUGUÊS → Direto do Brasil pro mundo │
-│ 🔧 HANDS-ON → Menos teoria, mais terminal │
-│ 
-│
-└─────────────────────────────────────────────────────────────┘
+
+| | |
+|---|---|
+| 💰 **100% GRATUITO** | Educação não deveria ter paywall |
+| 📖 **OPEN SOURCE** | Nosso código e conteúdo são livres |
+| 🇧🇷 **EM PORTUGUÊS** | Direto do Brasil pro mundo |
+| 🔧 **HANDS-ON** | Menos teoria, mais terminal |
+
 
 ### 🎓 Cursos (Comece por aqui!)
 
