@@ -27,7 +27,6 @@ Não somos mais uma escola burocrática. Somos uma **comunidade de construtores*
 
 Aqui você aprende a **construir com Bitcoin**.
 
-
 ---
 
 ## 🎯 O que fazemos diferente?
@@ -39,6 +38,9 @@ Aqui você aprende a **construir com Bitcoin**.
 | 🇧🇷 **EM PORTUGUÊS** | Direto do Brasil pro mundo |
 | 🔧 **HANDS-ON** | Menos teoria, mais terminal |
 
+---
+
+## 📚 Nosso Ecossistema
 
 ### 🎓 Cursos (Comece por aqui!)
 
@@ -54,14 +56,12 @@ Aqui você aprende a **construir com Bitcoin**.
 
 > **3 semanas** para dominar o Bitcoin Core de ponta a ponta
 
-```bash
-$ bitcoin-cli getblockchaininfo  # Você vai entender cada linha disso
+- ✅ Da linha de comando à integração via RPC
+- ✅ Projetos práticos reais
+- ✅ Certificado de conclusão
+- ✅ 100% online e gratuito
 
-✅ Da linha de comando à integração via RPC
-✅ Projetos práticos reais
-✅ Certificado de conclusão
-✅ 100% online e gratuito
-→ Quero aplicar pro CoreCraft
+[**→ Quero aplicar pro CoreCraft**](https://bitcoincoders.org/programa/corecraft/)
 
 ---
 
@@ -75,7 +75,6 @@ $ bitcoin-cli getblockchaininfo  # Você vai entender cada linha disso
 |:---:|:---:|:---:|:---:|
 | Aprenda com quem constrói | Conectamos você ao mercado | Interação em tempo real | Seu código é seu legado |
 
-
 ---
 
 ## 🤝 Para quem é?
@@ -87,30 +86,43 @@ $ bitcoin-cli getblockchaininfo  # Você vai entender cada linha disso
 
 > **Se você quer aprender, você tá dentro.** Simples assim.
 
+---
 
-⚡ Comece agora
-# Passo 1: Entre na comunidade
-$ curl -X JOIN https://discord.gg/e5qUsNWgQg
+## ⚡ Comece agora
 
-# Passo 2: Assista seu primeiro curso
-$ open https://bitcoincoders.org/#cursos
+1️⃣ **Entre na comunidade** → [Discord](https://discord.gg/e5qUsNWgQg)
 
-# Passo 3: Construa algo incrível
-$ git commit -m "minha primeira contribuição pro Bitcoin"
+2️⃣ **Assista seu primeiro curso** → [Cursos](https://bitcoincoders.org/#cursos)
 
-📫 Fale com a gente
-🌐 Website	bitcoincoders.org
-💬 Discord	Comunidade
-𝕏 Twitter	@bitcoin_coders
-📸 Instagram	@bitcoin_coders
-📧 Email	hello@bitcoincoders.org
+3️⃣ **Construa algo incrível** → Faça sua primeira contribuição pro Bitcoin!
+
+---
+
+## 📫 Fale com a gente
+
+| | |
+|---|---|
+| 🌐 **Website** | [bitcoincoders.org](https://bitcoincoders.org) |
+| 💬 **Discord** | [Comunidade](https://discord.gg/e5qUsNWgQg) |
+| 𝕏 **Twitter** | [@bitcoin_coders](https://x.com/bitcoin_coders) |
+| 📸 **Instagram** | [@bitcoin_coders](https://www.instagram.com/bitcoin_coders) |
+| 📧 **Email** | [hello@bitcoincoders.org](mailto:hello@bitcoincoders.org) |
+
+---
+
 <div align="center">
 
-🧡 Apoiado por
-<img src="https://img.shields.io/badge/Área_Bitcoin-F7931A?style=for-the-badge&amp;logo=bitcoin&amp;logoColor=white" alt="Área Bitcoin">
+### 🧡 Apoiado por
 
-O Bitcoin é de código aberto. A educação sobre ele também deveria ser.
+[![Área Bitcoin](https://img.shields.io/badge/Área_Bitcoin-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white)](https://x.com/areabitcoin)
+
+---
+
+**O Bitcoin é de código aberto. A educação sobre ele também deveria ser.**
 
 <sub>Feito com ₿ e ☕ no Brasil 🇧🇷</sub>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=F7931A&height=100&section=footer" width="100%"/> </div> ```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=F7931A&height=100&section=footer" width="100%"/>
+
+</div>
+
