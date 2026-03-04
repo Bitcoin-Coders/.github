@@ -44,7 +44,7 @@ Aqui você aprende a **construir com Bitcoin**.
 
 ### 🧠 Repositório Principal
 
-Todo o conteúdo técnico aberto do projeto vive no nosso repositório GitHub.
+Todo o conteúdo técnico aberto do projeto está no nosso repositório GitHub.
 
 → https://github.com/Bitcoin-Coders/bitcoin-coders
 
