@@ -77,8 +77,9 @@ Os Cursos do Bitcoin Coders são módulos técnicos autocontidos, focados em sub
 - ✅ Certificado de conclusão
 - ✅ 100% online e gratuito
 
-[**→ Quero aplicar pro CoreCraft**](https://bitcoincoders.org/programa/corecraft/)
 → https://github.com/Bitcoin-Coders/bitcoin-coders/tree/main/programas
+
+[**→ Quero aplicar pro CoreCraft**](https://bitcoincoders.org/programa/corecraft/)
 
 ---
 
