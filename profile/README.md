@@ -42,15 +42,30 @@ Aqui você aprende a **construir com Bitcoin**.
 
 ## 📚 Nosso Ecossistema
 
+### 🧠 Repositório Principal
+
+Todo o conteúdo técnico aberto do projeto vive no nosso repositório GitHub.
+
+→ https://github.com/Bitcoin-Coders/bitcoin-coders
+
+Lá você encontra:
+
+- 📖 artigos técnicos
+- 🎓 cursos
+- 🧪 experimentos com Bitcoin Core
+- ⚙️ scripts e laboratórios
+
+### 📖 Artigos Técnicos
+
+Explorações profundas sobre o funcionamento do Bitcoin usando **Bitcoin Core** e **bitcoin-cli**.
+
+→ https://github.com/Bitcoin-Coders/bitcoin-coders/tree/main/artigos
+
 ### 🎓 Cursos (Comece por aqui!)
 
-| Módulo | O que você vai dominar | ⏱️ |
-|--------|------------------------|-----|
-| **Carteiras no Bitcoin Core** | Criar endereços Segwit e Taproot do zero | 2h |
-| **Transações & Signet** | Anatomia completa de uma TX Bitcoin | 1h20 |
-| **Bitcoin Script** | Como o protocolo executa suas regras | 1h30 |
-| **Assinaturas Digitais** | Provar autorização sem revelar a chave | 1h40 |
-| **Núcleo do Bitcoin** | Blocos, mineração, P2P e validação | 1h40 |
+Os Cursos do Bitcoin Coders são módulos técnicos autocontidos, focados em subsistemas reais do Bitcoin.
+
+→ https://github.com/Bitcoin-Coders/bitcoin-coders/tree/main/cursos
 
 ### 🏗️ Programa CoreCraft
 
@@ -62,6 +77,7 @@ Aqui você aprende a **construir com Bitcoin**.
 - ✅ 100% online e gratuito
 
 [**→ Quero aplicar pro CoreCraft**](https://bitcoincoders.org/programa/corecraft/)
+→ https://github.com/Bitcoin-Coders/bitcoin-coders/tree/main/programas
 
 ---
 
