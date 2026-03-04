@@ -52,7 +52,7 @@ Lá você encontra:
 
 - 📖 artigos técnicos
 - 🎓 cursos
-- 🏗️ Programas
+- 🏗️ programas
 - 🧪 experimentos com Bitcoin Core
 - ⚙️ scripts e laboratórios
 
