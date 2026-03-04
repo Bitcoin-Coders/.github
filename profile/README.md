@@ -52,6 +52,7 @@ Lá você encontra:
 
 - 📖 artigos técnicos
 - 🎓 cursos
+- 🏗️ Programas
 - 🧪 experimentos com Bitcoin Core
 - ⚙️ scripts e laboratórios
 
